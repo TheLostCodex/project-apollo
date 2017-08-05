@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53b45cd61b4204f80af318e1c2c2ffb9
+timeCreated: 1501950742
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: yorkwhiteletter
+  fontNames:
+  - yorkwhiteletter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
